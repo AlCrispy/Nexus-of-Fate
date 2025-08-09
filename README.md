@@ -1,2 +1,2 @@
 # Nexus-of-Fate
-Free, open to use rule for GDR games
+Free, open to use rules for GDR games
