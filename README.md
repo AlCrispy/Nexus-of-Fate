@@ -80,7 +80,7 @@ Sii audace, sii curioso — e lascia che le conseguenze ti raccontino chi sei.
 
 ## 🌠 Licenza & Crediti
 
-Creato da **[Il tuo nome]**  
+Creato da **Crispini Alessandro**  
 Distribuito sotto licenza [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > “Il destino è un tessuto: ogni giocatore tesse un filo, e insieme creiamo l’universo.”
