@@ -77,11 +77,10 @@ Ogni decisione, ogni parola, è una diramazione del Fato.
 Sii audace, sii curioso — e lascia che le conseguenze ti raccontino chi sei.
 
 ---
-
 ## 🌠 Licenza & Crediti
 
 Creato da **Crispini Alessandro**  
-Distribuito sotto licenza [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Distribuito sotto licenza [Creative Commons BY](https://creativecommons.org/licenses/by/4.0/)
 
 > “Il destino è un tessuto: ogni giocatore tesse un filo, e insieme creiamo l’universo.”
 
