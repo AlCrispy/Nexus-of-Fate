@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Nexus of Fate GDR
 description: Un gioco di ruolo a struttura libera
+baseurl: "" 
 
 include:
   - docs
