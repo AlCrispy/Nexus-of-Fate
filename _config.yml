@@ -4,6 +4,7 @@ plugins:
 title: Nexus of Fate GDR
 description: Un gioco di ruolo a struttura libera
 baseurl: "" 
+url: "https://alcrispy.github.io"
 
 include:
   - docs
