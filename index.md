@@ -64,7 +64,7 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 - [Scheda del Personaggio](scheda-personaggio.md)
 - [Tabelle di Riferimento Rapido](tabelle-rapide.md)
 - [Esempi di Gioco](esempi.md)
-- [Licenza e Crediti](docs/licence)
+- [Licenza e Crediti](/docs/licence)
 
 ---
 
