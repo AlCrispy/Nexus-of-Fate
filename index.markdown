@@ -6,9 +6,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 📖 Introduzione
-- [Cos'è Nexus of Fate](introduzione.md)
-- [Principi di Gioco](principi-di-gioco.md)
-- [Glossario dei Termini](glossario.md)
  - [Cos'è Nexus of Fate]({{ '/introduzione/' | relative_url }})
  - [Principi di Gioco]({{ '/principi-di-gioco/' | relative_url }})
  - [Glossario dei Termini]({{ '/glossario/' | relative_url }})
@@ -16,11 +13,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 🧬 Creazione del Personaggio
-- [Concetto e Background](creazione-personaggio.md)
-- [Caratteristiche](caratteristiche.md)
-- [Assegnazione dei Valori](valori-caratteristiche.md)
-- [Evoluzione e Livelli](livelli.md)
-- [Equipaggiamento e Risorse](equipaggiamento.md)
  - [Concetto e Background]({{ '/creazione-personaggio/' | relative_url }})
  - [Caratteristiche]({{ '/caratteristiche/' | relative_url }})
  - [Assegnazione dei Valori]({{ '/valori-caratteristiche/' | relative_url }})
@@ -30,11 +22,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## ⚔️ Meccaniche di Gioco
-- [Tiri di Dado e Prove](meccaniche-base.md)
-- [Conflitti e Azioni](azioni-e-conflitti.md)
-- [Sistema dei Danni](danni-localizzati.md)
-- [Condizioni e Stati](condizioni.md)
-- [Riposo, Recupero e Guarigione](guarigione.md)
  - [Tiri di Dado e Prove]({{ '/meccaniche-base/' | relative_url }})
  - [Conflitti e Azioni]({{ '/azioni-e-conflitti/' | relative_url }})
  - [Sistema dei Danni]({{ '/danni-localizzati/' | relative_url }})
@@ -44,10 +31,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 🔮 Magia e Potere
-- [Essenza e Manipolazione](essenza.md)
-- [Prove Arcane](prove-arcane.md)
-- [Distorsioni del Nexus](distorsioni.md)
-- [Energie, Artefatti e Corruzione](energie.md)
  - [Essenza e Manipolazione]({{ '/essenza/' | relative_url }})
  - [Prove Arcane]({{ '/prove-arcane/' | relative_url }})
  - [Distorsioni del Nexus]({{ '/distorsioni/' | relative_url }})
@@ -56,9 +39,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 🗣️ Interazioni e Ruolo
-- [Dialogo e Influenza](dialogo-e-sociale.md)
-- [Intrighi, Inganni e Conflitti Sociali](conflitti-sociali.md)
-- [Reputazione e Legami](reputazione.md)
  - [Dialogo e Influenza]({{ '/dialogo-e-sociale/' | relative_url }})
  - [Intrighi, Inganni e Conflitti Sociali]({{ '/conflitti-sociali/' | relative_url }})
  - [Reputazione e Legami]({{ '/reputazione/' | relative_url }})
@@ -66,9 +46,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 🌍 Mondo e Ambientazione
-- [Cosmologia del Nexus](cosmologia.md)
-- [Luoghi e Realtà Convergenti](luoghi.md)
-- [Fazioni, Entità e Misteri](fazioni.md)
  - [Cosmologia del Nexus]({{ '/cosmologia/' | relative_url }})
  - [Luoghi e Realtà Convergenti]({{ '/luoghi/' | relative_url }})
  - [Fazioni, Entità e Misteri]({{ '/fazioni/' | relative_url }})
@@ -76,10 +53,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 🎲 Strumenti per il Narratore
-- [Creazione di Scenari](scenari.md)
-- [Gestione del Destino](destino.md)
-- [Eventi, Incontri e Casualità](eventi.md)
-- [Personalizzare le Regole](personalizzazioni.md)
  - [Creazione di Scenari]({{ '/scenari/' | relative_url }})
  - [Gestione del Destino]({{ '/destino/' | relative_url }})
  - [Eventi, Incontri e Casualità]({{ '/eventi/' | relative_url }})
@@ -88,10 +61,6 @@ Questo indice raccoglie tutte le sezioni fondamentali, ciascuna collegata alla p
 ---
 
 ## 📎 Appendici
-- [Scheda del Personaggio](scheda-personaggio.md)
-- [Tabelle di Riferimento Rapido](tabelle-rapide.md)
-- [Esempi di Gioco](esempi.md)
-- [Licenza e Crediti](/licence)
  - [Scheda del Personaggio]({{ '/scheda-personaggio/' | relative_url }})
  - [Tabelle di Riferimento Rapido]({{ '/tabelle-rapide/' | relative_url }})
  - [Esempi di Gioco]({{ '/esempi/' | relative_url }})
